@@ -1,2 +1,2 @@
-# BSOO
-BSOD App
+This is a BSOD APP --Credits to Flytech I found this from his youtube channel you should totally watch him hes a good tech youtuber
+To start it download the .zip file and unzip it and open BluescreenSimulator.exe (Keep in mind Windows Defender/Security might say this is a PUP Potentially unwanted app and desc says this app is to joke/amuse the user this is normal because its a bluescreen app select the settings to run it.
